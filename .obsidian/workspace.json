@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "2af849f2328b2bc0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d368fe31a9bf1b08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53d19c9f9564bbaf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "14eabefa37f7df1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f602824e0e28036c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b41a302431b119a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "090f7b05723efe5e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "52c60c01a26930f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bf8a4d726b3e89e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2cb0d9aef91412d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "026ca4eb7c8ec93c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "JS Advanced Topics/19. Testing/Snapshot testing/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "a55a0f48ed65acc7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "JS Advanced Topics/19. Testing/Snapshot testing/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "e55ab25e158d5220",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "30dd7f0cdd64ac63",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "JS Advanced Topics/19. Testing/Snapshot testing/README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "53d19c9f9564bbaf",
+  "lastOpenFiles": [
+    "JS Advanced Topics/19. Testing/Snapshot testing/README.md",
+    "JS Advanced Topics/7. Object-Oriented JavaScript/Polymorphism/README.md",
+    "JS Advanced Topics/7. Object-Oriented JavaScript/Encapsulation/README.md",
+    "JS Advanced Topics/6. Error Handling/Throw Statements/README.md",
+    "JS Advanced Topics/6. Error Handling/Custom Errors/README.md"
+  ]
+}
